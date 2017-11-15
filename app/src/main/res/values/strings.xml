@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">Inventory App</string>
+    <string name="action_delete">Delete item</string>
+    <string name="action_save">Save item</string>
+    <string name="name">Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="price">Price</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_email">Supplier Email</string>
+    <string name="supplier_phone">Supplier Phone</string>
+    <string name="order">Order</string>
+    <string name="delete_dialog_message">Delete book?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Discard changes?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="empty_view_text">Add a book to the inventory.\n\nTo do so enter the book\'s name, price, and quantity as well as the supplier\'s name and phone number.</string>
+    <string name="sale">Sale</string>
+    <string name="edit_book">Edit book</string>
+    <string name="add_book">Add book</string>
+    <string name="tel">tel</string>
+    <string name="book_saved">Book saved.</string>
+    <string name="book_updated">Book updated.</string>
+    <string name="error_deleting_book">Error deleting book.</string>
+    <string name="book_deleted">Book deleted.</string>
+    <string name="quantity_header">Quantity:</string>
+    <string name="currency">$</string>
+    <string name="requires_valid_supplier_phone">The book requires a valid supplier phone number.</string>
+    <string name="requires_supplier_name">The book requires a supplier name.</string>
+    <string name="requires_valid_price">The book requires a valid price.</string>
+    <string name="requires_valid_quantity">The book requires a valid quantity.</string>
+    <string name="requires_name">The book requires a name.</string>
 </resources>

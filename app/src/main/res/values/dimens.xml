@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_quantity_button">24dp</dimen>
+    <dimen name="margin_quantity_edit_text">8dp</dimen>
+    <dimen name="margin_empty_view">48dp</dimen>
+    <dimen name="margin_fab">16dp</dimen>
+    <dimen name="padding_product_detail">16dp</dimen>
+    <dimen name="padding_list_item">16dp</dimen>
+    <dimen name="text_size_edit_product">16sp</dimen>
+</resources>
